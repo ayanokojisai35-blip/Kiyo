@@ -37,33 +37,33 @@
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "61558762813083",
+        "61558762813083"
       ]
     }
   },
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "61558762813083",
+      "61558762813083"
     ]
   },
   "adminBot": [
-    "100082395531611",
+    "61558762813083",
     "100015168369582"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100082395531611",
-      "100015168369582"
+      "61558762813083",
+      "61558762813083"
     ]
   },
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "6601227983317461",
+      "",
       "9832241216832773"
     ]
   },
@@ -185,7 +185,7 @@
     "updatePresence": true,
     "listenTyping": true,
     "logLevel": "error",
-    "selfListen": false,
+    "selfListen": true,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
     "autoReconnect": false
